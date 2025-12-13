@@ -1,28 +1,52 @@
-# Hi there, I'm [Nama Kamu] 👋
+<img align="left" width="250" height="250" src="https://i.imgur.com/Mcg0PqM.png" alt="Foto Profil Placeholder">
 
-### Software Engineer | [Fokus Utama, misal: Backend Specialist]
+# Hi, I'm [Nama Kamu]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I build scalable systems and efficient solutions. Currently based in [Kota/Negara].
+### Creative Software Engineer Based in [Kota]
+
+Saya bukan sekadar menulis kode, saya membangun solusi digital yang interaktif dan efisien. Spesialisasi saya adalah mengubah ide kompleks menjadi antarmuka yang ramah pengguna.
+
+- 🔭 Saat ini sedang membangun **[Nama Proyek/Startup]**.
+- 🌱 Sedang mendalami **System Design & Cloud Architecture**.
+- ⚡ Fun fact: Saya bisa coding 10 jam tapi tidak kuat lari 10 menit.
+
+<br clear="left"/>
 
 ---
 
-### 🛠 Tech Stack
-* **Languages:** Python, Go, TypeScript
-* **Frameworks:** Django, FastAPI, React
-* **Infrastructure:** AWS, Docker, Kubernetes, Terraform
-* **Databases:** PostgreSQL, Redis, MongoDB
+### 🛠️ The Toolkit
 
-### 🔭 Current Focus
-* Working on high-concurrency microservices at **[Nama Perusahaan/Proyek]**.
-* Learning advanced system design patterns and Rust.
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
-### 💼 Experience
-* **Senior Backend Engineer** @ [Perusahaan A] (2021 - Present)
-* **Software Developer** @ [Perusahaan B] (2018 - 2021)
+---
 
-### 📫 Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/username-kamu/)
-* [Personal Website](https://website-kamu.com)
-* Email: [email-kamu@example.com]
+### 📺 Featured Work in Action
 
+*Ini adalah cara terbaik untuk "pamer" skill. Ganti GIF placeholder di bawah dengan GIF rekaman layar dari aplikasi yang PERNAH KAMU BUAT.*
+
+| **Proyek A: E-Commerce Dashboard** | **Proyek B: Real-time Chat App** |
+| :---: | :---: |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR2aW9xcTJwM3p6OW85OWh2aW9xcTJwM3p6OW85OWh2aW9xcTJwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpMGX4n2Y4v7k3c7QZ/giphy.gif" width="100%"> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR2aW9xcTJwM3p6OW85OWh2aW9xcTJwM3p6OW85OWh2aW9xcTJwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl65W/giphy.gif" width="100%"> |
+| *React, Redux, Node.js* | *Socket.io, Vue.js, Firebase* |
+
+<br>
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/username-kamu)
+[<img src="https://img.shields.io/badge/Portfolio_Website-FF5722?style=for-the-badge&logo=html5&logoColor=white" />](https://website-kamu.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:email-kamu@gmail.com)
+
+</div>
 
