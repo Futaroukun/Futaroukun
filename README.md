@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm [Nama Kamu] 👋
 
-<!--
-**Futaroukun/Futaroukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | [Fokus Utama, misal: Backend Specialist]
 
-Here are some ideas to get you started:
+I build scalable systems and efficient solutions. Currently based in [Kota/Negara].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+* **Languages:** Python, Go, TypeScript
+* **Frameworks:** Django, FastAPI, React
+* **Infrastructure:** AWS, Docker, Kubernetes, Terraform
+* **Databases:** PostgreSQL, Redis, MongoDB
+
+### 🔭 Current Focus
+* Working on high-concurrency microservices at **[Nama Perusahaan/Proyek]**.
+* Learning advanced system design patterns and Rust.
+
+### 💼 Experience
+* **Senior Backend Engineer** @ [Perusahaan A] (2021 - Present)
+* **Software Developer** @ [Perusahaan B] (2018 - 2021)
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/username-kamu/)
+* [Personal Website](https://website-kamu.com)
+* Email: [email-kamu@example.com]
+
+
