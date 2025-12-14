@@ -1,12 +1,12 @@
 <img align="left" width="250" height="250" src="https://i.imgur.com/Mcg0PqM.png" alt="Foto Profil Placeholder">
 
-# Hi, I'm [Nama Kamu]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm Rafli Setiawan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### Creative Software Engineer Based in [Kota]
+### Creative Software Engineer Based in Sukabumi
 
 Saya bukan sekadar menulis kode, saya membangun solusi digital yang interaktif dan efisien. Spesialisasi saya adalah mengubah ide kompleks menjadi antarmuka yang ramah pengguna.
 
-- 🔭 Saat ini sedang membangun **[Nama Proyek/Startup]**.
+- 🔭 Saat ini sedang membangun **Bot WhatsApp**.
 - 🌱 Sedang mendalami **System Design & Cloud Architecture**.
 - ⚡ Fun fact: Saya bisa coding 10 jam tapi tidak kuat lari 10 menit.
 
