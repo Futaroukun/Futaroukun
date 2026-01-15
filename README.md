@@ -8,7 +8,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/raff_editz2"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:raflisetiawan093@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/6283854552575"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Futaroukun&color=blue&style=flat-square&label=Profile+Views"/>
@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```javascript
 const profile = {
@@ -34,15 +34,15 @@ const profile = {
 
 ---
 
-### 🛠️ Technology Stack
+### Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Futaroukun&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
@@ -55,25 +55,26 @@ const profile = {
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Dashboard</h3>
+      <h3 align="center">🌐 Portfolio Website</h3>
       <div align="center">
-        <a href="https://github.com/Futaroukun/project-name">
+        <a href="https://github.com/Futaroukun/portofolio">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Futaroukun&repo=portofolio&theme=react&hide_border=true&bg_color=0D1117" />
         </a>
-        <p><strong>React • Redux • Node.js</strong></p>
-        <p>Dashboard manajemen e-commerce dengan fitur analitik real-time dan inventory management yang powerful.</p>
+        <p><strong>React • Tailwind CSS • Vite</strong></p>
+        <p>Personal portfolio website yang menampilkan project, skills, dan pengalaman dengan design modern dan responsive.</p>
+        <p><a href="https://github.com/Futaroukun/portofolio"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🤖 WhatsApp Bot</h3>
       <div align="center">
         <a href="https://wa.me/6283854552575?text=Halo%20Rafli,%20saya%20tertarik%20dengan%20WhatsApp%20Bot%20kamu!" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/3B82F6?text=WhatsApp+Bot+Project" alt="WhatsApp Bot" />
+          <img src="https://api.cloudsky.biz.id/file?key=kurumi-bot/1768470925543.jpg" alt="WhatsApp Bot" />
         </a>
         <p><strong>Node.js • WhatsApp Web.js • Baileys</strong></p>
         <p>Bot WhatsApp multifungsi dengan fitur auto-reply, command handler, dan integrasi database untuk menyimpan data user.</p>
@@ -85,13 +86,13 @@ const profile = {
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Futaroukun&custom_title=Rafli's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
 
 ---
 
-### 💡 Random Dev Quote
+### Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -99,30 +100,38 @@ const profile = {
 
 ---
 
-### 🎯 Current Goals for 2025
-
-- 🤖 Build production-ready WhatsApp Bot framework
-- ☁️ Master cloud architecture patterns (AWS/GCP)
-- 📚 Contribute to 5+ open source projects
-- 🚀 Launch 3 side projects
-- 📝 Write technical blog posts regularly
-
----
-
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
-  💼 Open for collaboration and opportunities<br/>
-  📧 Reach me at: <a href="mailto:raflisetiawan093@gmail.com">raflisetiawan093@gmail.com</a><br/>
-  💬 Chat on WhatsApp: <a href="https://wa.me/6283854552575?text=Halo%20Rafli,%20saya%20ingin%20berdiskusi%20tentang%20project!">+62 838-5455-2575</a>
+  💼 <strong>Open for collaboration and opportunities</strong><br/><br/>
+  <a href="mailto:raflisetiawan093@gmail.com">
+    <img src="https://img.shields.io/badge/Email-raflisetiawan093%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/6283854552575?text=Halo%20Rafli,%20saya%20ingin%20berdiskusi%20tentang%20project!">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B62%20838--5455--2575-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/raff_editz2">
+    <img src="https://img.shields.io/badge/Instagram-@raff__editz2-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Futaroukun">Futaroukun</a> - Let's build something amazing together!</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Feel+free+to+reach+out+anytime!+%F0%9F%92%AC" alt="Footer Typing SVG" />
+  
+  <br/><br/>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/by-Futaroukun-3B82F6?style=for-the-badge"/>
+  </p>
+  
+  <p>
+    <i>⭐️ If you like my work, consider giving it a star!</i>
+  </p>
+</div>
