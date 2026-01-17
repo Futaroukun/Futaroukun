@@ -48,13 +48,6 @@ const profile = {
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Futaroukun&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Futaroukun&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Futaroukun&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-</div>
-
----
-
 ### Featured Projects
 
 <table>
@@ -100,38 +93,8 @@ const profile = {
 
 ---
 
-### Let's Connect
-
-<p align="center">
-  💼 <strong>Open for collaboration and opportunities</strong><br/><br/>
-  <a href="mailto:raflisetiawan093@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raflisetiawan093%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/6283854552575?text=Halo%20Rafli,%20saya%20ingin%20berdiskusi%20tentang%20project!">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B62%20838--5455--2575-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/raff_editz2">
-    <img src="https://img.shields.io/badge/Instagram-@raff__editz2-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
   
   <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Feel+free+to+reach+out+anytime!+%F0%9F%92%AC" alt="Footer Typing SVG" />
-  
-  <br/><br/>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/by-Futaroukun-3B82F6?style=for-the-badge"/>
-  </p>
-  
-  <p>
-    <i>⭐️ If you like my work, consider giving it a star!</i>
-  </p>
 </div>
