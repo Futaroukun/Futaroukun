@@ -11,7 +11,6 @@
   <a href="https://instagram.com/raff_editz2"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:raflisetiawan093@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/6283854552575"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Futaroukun&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
@@ -48,6 +47,7 @@ const profile = {
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Futaroukun&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Futaroukun&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 </div>
+
 ### Featured Projects
 
 <table>
