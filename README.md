@@ -105,15 +105,13 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Futaroukun&theme=github_dark" alt="Profile Details" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Futaroukun&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=8B949E&currStreakLabel=79C0FF&dates=8B949E&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Futaroukun&theme=github_dark" alt="Stats Overview" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Futaroukun&theme=github_dark" alt="Languages Breakdown" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Futaroukun&theme=github_dark" alt="Stats Overview" />
 </div>
 
 <br/>
