@@ -1,77 +1,98 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M%20Rafli%20Setiawan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1B1412,3E2318,7B4125,D97706&height=200&section=header&text=M%20Rafli%20Setiawan&fontSize=42&fontColor=FFF7ED&animation=fadeIn&fontAlignY=36"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Creative+Software+Engineer+%F0%9F%9A%80;WhatsApp+Bot+Developer+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8C%B1;Based+in+Sukabumi%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
-</p>
+  <!-- Typing Subtitle -->
+  <a href="https://github.com/Futaroukun">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E5A54B&center=true&vCenter=true&random=false&width=560&lines=Software+Engineer+%26+Automation+Specialist+%E2%9C%A8;Building+High-Performance+WhatsApp+Bot+Solutions+%F0%9F%A4%96;Fullstack+JavaScript+%7C+Node.js+%E2%80%A2+React+%E2%80%A2+Tailwind+%E2%98%95;Based+in+Sukabumi%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  </a>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://instagram.com/raff_editz2"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:raflisetiawan093@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/6283854552575"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-</p>
+  <br/>
+
+  <!-- Social & Contact Badges -->
+  <p align="center">
+    <a href="https://wa.me/6283854552575" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+    &nbsp;
+    <a href="mailto:raflisetiawan093@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/raff_editz2" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/Futaroukun/portofolio" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-D97706?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-### About Me
+### ☕ About Me
 
 ```javascript
-const profile = {
-    name: "M. Rafli Setiawan",
-    age: "20 years",
-    location: "Kab.Sukabumi, Jawa Barat, Indonesia 🇮🇩",
-    currentFocus: "Building WhatsApp Bot Solutions 🤖",
-    learning: ["System Design", "Cloud Architecture", "Microservices"],
-    techStack: {
-        languages: ["React", "Node.js", "HTML", "CSS", "Javascript"],
-    },
-    funFact: "Coding 10 jam ✅ | Lari 10 menit ❌",
+const developer = {
+  name: "M. Rafli Setiawan",
+  role: "Software Engineer & Bot Solutions Architect",
+  location: "Sukabumi, West Java, Indonesia 🇮🇩",
+  currentFocus: "Architecting modular WhatsApp automation engines & reactive web apps",
+  learning: ["System Design", "Cloud Infrastructure", "Microservices Architecture"],
+  techStack: {
+    frontend: ["React.js", "Tailwind CSS", "Vite", "HTML5", "CSS3"],
+    backend: ["Node.js", "Express.js", "Baileys", "REST APIs"],
+    environment: ["Linux", "Termux", "Git / GitHub"],
+  },
+  mindset: "Clean code, high efficiency, and thoughtful system design."
 };
 ```
 
 ---
 
-### Technology Stack
+### 🛠️ Tech Stack & Tooling
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,tailwind,vite,html,css,git,linux,postman&perline=10&theme=dark" alt="Tech Stack" />
+</div>
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Futaroukun&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Futaroukun&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
-</div>
-
-### Featured Projects
+### 📌 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Portfolio Website</h3>
+      <h3 align="center">🤖 Joy — WhatsApp Bot Engine</h3>
       <div align="center">
-        <a href="https://github.com/Futaroukun/portofolio">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Futaroukun&repo=portofolio&theme=react&hide_border=true&bg_color=0D1117" />
+        <a href="https://wa.me/6283854552575?text=Halo%20Rafli,%20saya%20tertarik%20dengan%20WhatsApp%20Bot%20kamu!" target="_blank">
+          <img src="https://api.cloudsky.biz.id/file?key=kurumi-bot/1768470925543.jpg" width="100%" alt="Joy WhatsApp Bot" style="border-radius: 8px;"/>
         </a>
-        <p><strong>React • Tailwind CSS • Vite</strong></p>
-        <p>Personal portfolio website yang menampilkan project, skills, dan pengalaman dengan design modern dan responsive.</p>
-        <p><a href="https://github.com/Futaroukun/portofolio"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+        <br/><br/>
+        <p><strong>Node.js • Baileys • Modular Plugin Engine</strong></p>
+        <p align="left">Mesin bot WhatsApp multifungsi berkinerja tinggi dengan sistem penanganan event otomatis, modular command plugins, dan efisiensi resource.</p>
+        <p>
+          <a href="https://wa.me/6283854552575?text=Halo%20Rafli,%20saya%20tertarik%20dengan%20WhatsApp%20Bot%20kamu!">
+            <img src="https://img.shields.io/badge/Contact%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+          </a>
+        </p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 WhatsApp Bot</h3>
+      <h3 align="center">🌐 Modern Portfolio Website</h3>
       <div align="center">
-        <a href="https://wa.me/6283854552575?text=Halo%20Rafli,%20saya%20tertarik%20dengan%20WhatsApp%20Bot%20kamu!" target="_blank">
-          <img src="https://api.cloudsky.biz.id/file?key=kurumi-bot/1768470925543.jpg" alt="WhatsApp Bot" />
+        <a href="https://github.com/Futaroukun/portofolio">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Futaroukun&repo=portofolio&theme=react&hide_border=true&bg_color=0D1117&title_color=E5A54B&icon_color=F0883E&text_color=8B949E" width="100%" alt="Portfolio Repo"/>
         </a>
-        <p><strong>Node.js • WhatsApp Web.js • Baileys</strong></p>
-        <p>Bot WhatsApp multifungsi dengan fitur auto-reply, command handler, dan integrasi database untuk menyimpan data user.</p>
-        <p><a href="https://wa.me/6283854552575?text=Halo%20Rafli,%20saya%20tertarik%20dengan%20WhatsApp%20Bot%20kamu!"><img src="https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
+        <br/><br/>
+        <p><strong>React • Tailwind CSS • Vite</strong></p>
+        <p align="left">Website portofolio interaktif dan modern yang menampilkan showcase proyek, keahlian teknis, dan pengalaman dengan antarmuka responsif.</p>
+        <p>
+          <a href="https://github.com/Futaroukun/portofolio">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
       </div>
     </td>
   </tr>
@@ -79,22 +100,22 @@ const profile = {
 
 ---
 
-### Contribution Graph
+### 📊 GitHub Activity & Metrics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Futaroukun&custom_title=Rafli's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
+<div align="center">
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Futaroukun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E5A54B&icon_color=F0883E&text_color=8B949E"/>
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Futaroukun&layout=compact&hide_border=true&bg_color=0D1117&title_color=E5A54B&text_color=8B949E"/>
+</div>
 
----
+<br/>
 
-### Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Futaroukun&custom_title=Contributions%20Overview&bg_color=0D1117&color=E5A54B&line=F0883E&point=FFF7ED&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-  
-  <br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,1B1412,3E2318,7B4125,D97706&height=120&section=footer"/>
 </div>
