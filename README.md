@@ -103,11 +103,17 @@
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Futaroukun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=8B949E"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Futaroukun&theme=github_dark" alt="Profile Details" />
   &nbsp;
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Futaroukun&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=8B949E&currStreakLabel=79C0FF&dates=8B949E&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Futaroukun&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=8B949E&currStreakLabel=79C0FF&dates=8B949E&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Futaroukun&theme=github_dark" alt="Languages Breakdown" />
   &nbsp;
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Futaroukun&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Futaroukun&theme=github_dark" alt="Stats Overview" />
 </div>
 
 <br/>
